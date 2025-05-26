@@ -2,9 +2,9 @@
 
 [Paper](https://xxxxxxxxxxx) | [Project Page](https://github.com/xxxxxxx) 
 
-> Wenzhuo Jin, Qianfeng Yang, Hongming Chen, Xianhao Wu, Xiang Chen
+> Wenzhuo Jin, Qianfeng Yang, Xianhao Wu, Hongming Chen, Xiang Chen
 
->Beijing Jiaotong University, Dalian Polytechnic University, Dalian Maritime University, Nanjing University of Aeronautics and Astronautics, Nanjing University of Science and Technology
+>Beijing Jiaotong University, Dalian Polytechnic University, Nanjing University of Aeronautics and Astronautics, Dalian Maritime University, Nanjing University of Science and Technology
 ---
 ### Dataset
 ![Example](figures/pipeline_diagram.png)
