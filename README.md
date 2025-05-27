@@ -35,7 +35,7 @@ If you find this project useful in your research, please consider citing:
 ```
 @inproceedings{SmokeBench,
     title={xxxxx},
-    author={Jin, Wenzhuo and Yang, Qianfeng and Chen, Hongming and Wu, Xianhao and Chen, Xiang},
+    author={Jin, Wenzhuo and Yang, Qianfeng and Wu, Xianhao and Chen, Hongming and Chen, Xiang},
     booktitle={xxxx},
     year={2025}
 }
@@ -45,4 +45,4 @@ If you find this project useful in your research, please consider citing:
 Please only use the dataset for research purposes.
 
 ## Contact
-If you have any questions, please feel free to reach me out at xxxxxxxx@xx.xx
+If you have any questions, please feel free to reach me out at chenxiang@njust.edu.cn
