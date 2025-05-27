@@ -1,4 +1,4 @@
-# <p align=center> <img src="https://github.com/user-attachments/assets/c98f3f48-ab08-4e34-9b51-4b88ca880be7" width="40" height="40"> `SmokeBench: A Real-world Dataset for Surveillance Image Desmoking in Early-stage Fire Scenes`
+# <p align=center> <img src="https://github.com/user-attachments/assets/c98f3f48-ab08-4e34-9b51-4b88ca880be7" width="40" height="40"> `SmokeBench: A Real-World Dataset for Surveillance Image Desmoking in Early-Stage Fire Scenes`
 [Paper](https://xxxxxxxxxxx) | [Project Page](https://github.com/xxxxxxx) 
 
 > Wenzhuo Jin, Qianfeng Yang, Xianhao Wu, Hongming Chen, Xiang Chen
